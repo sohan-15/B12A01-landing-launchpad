@@ -1,0 +1,68 @@
+.navbar
+{
+  max-width: 1140px;
+  margin: auto;
+  font-size: 30px;
+    display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 50px;
+}
+  .navbar a {
+    
+      font-weight: bold;
+      color: blue;
+      text-decoration: none;
+  }
+  .content {
+    font-size: 64px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  }
+   .sub-title {
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+    background-color: #096ef2;
+    padding: 1px 50px;
+    border-radius: 10px;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+  }
+
+
+
+
+  .content1 {
+
+    font-size: 44px;
+     
+  }
+
+  .Launch {
+
+      
+    font-size: 14px;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+    background-color: #096ef2;
+    padding: 3px 20px;
+    border-radius: 20px;
+    display: inline-block;
+    font-family: Arial, sans-serif;}
+
+
+    .pic2022{
+
+  width: 150px;
+      height: 150px;
+    
+      border-radius: 50%;
+      object-fit: cover;
+    }
+ /* Statistics Container */
+  
