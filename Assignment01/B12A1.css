@@ -65,4 +65,15 @@
       object-fit: cover;
     }
  /* Statistics Container */
+  .sub
+  {
+    font-size: 20px;
+    font-weight: 500;
+    color: hsl(0, 0%, 100%);
+    background-color: #096ef2;
+    padding: 3px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    font-family: Arial, sans-serif;}
+
   
